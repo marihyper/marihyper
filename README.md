@@ -24,6 +24,7 @@ I don't just find bugs — I build the infrastructure that catches them. From ar
 Currently at **Telit Cinterion** working on Visual Inspection and industrial IoT systems. Previously at **Dimensa** on banking automation.
 
 - 🔧 I build automation frameworks with **Java · Selenide · Cucumber · BDD**
+- 🌐 I test at every layer — **frontend UI** (web apps, React) and **backend APIs** (REST, Postman, Newman)
 - 🤖 I develop **AI-powered tooling** for test creation, Jira authoring, and code generation
 - 🏭 I validate **industrial IoT** systems — PLC, OPC UA, MQTT, CNC integrations
 - 🌎 Native Portuguese · C2 English · Intermediate Spanish
