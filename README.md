@@ -61,10 +61,3 @@ Currently at **Telit Cinterion** working on Visual Inspection and industrial IoT
 | 🧪 100+ automated tests built from scratch | 🐛 300+ defects reported across web, AI & IoT |
 | ⚡ 24-min regression suite execution time | 🚀 72 production releases validated |
 | 🤖 AI tool that cut bug reporting time ~80% | 🎓 3 QA engineers mentored |
-
----
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marihyper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihyper&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
