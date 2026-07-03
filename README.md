@@ -3,16 +3,6 @@
   <h3>Senior QA Engineer · SDET · Quality Advocate</h3>
   <p><em>Building automation frameworks that actually hold up in production.</em></p>
 
-  <a href="mailto:mariana@wicked.art.br">
-    <img src="https://img.shields.io/badge/Email-mariana%40wicked.art.br-4f46e5?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mariabreulima/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mariana%20Lima-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Porto%20Alegre%2C%20Brazil%20🇧🇷-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Available-Remote-brightgreen?style=flat-square"/>
-</div>
-
 ---
 
 ### About me
