@@ -3,6 +3,16 @@
   <h3>Senior QA Engineer · SDET · Quality Advocate</h3>
   <p><em>Building automation frameworks that actually hold up in production.</em></p>
 
+  <a href="mailto:mariana@wicked.art.br">
+    <img src="https://img.shields.io/badge/Email-mariana%40wicked.art.br-4f46e5?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariabreulima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mariana%20Lima-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Porto%20Alegre%2C%20Brazil%20🇧🇷-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Available-Remote-brightgreen?style=flat-square"/>
+</div>
+
 ---
 
 ### About me
@@ -70,7 +80,7 @@ Currently at **Telit Cinterion** working on Visual Inspection and industrial IoT
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Containers](https://img.shields.io/badge/Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **IoT & Protocols**
 
