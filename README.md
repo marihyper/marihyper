@@ -20,13 +20,13 @@
 I'm a Senior QA Engineer and SDET with 5+ years of experience across web, API, banking and industrial IoT testing. 
 Currently testing an industrial IoT edge platform and an AI computer vision product at Telit Cinterion, from factory devices up to the web UI.
 
-Finds the defects that matter, builds test automation that lasts, and creates internal tools when the existing tooling slows the team down. 
-Technical reference for the QA team: onboarded and trained 3 testers, set the team’s automation design standards and led the adoption of Testmo.
+I find the defects that matter, build test automation that lasts, and create internal tools when the existing tooling slows the team down. 
+I'm also the technical reference for the QA team: I onboarded and trained 3 testers, set the team’s automation design standards and led the adoption of Testmo.
 
 
-- 🔧 I build automation frameworks with **Java · Selenide · Cucumber · BDD**
+- 🔧 I build automation frameworks with **Playwright · TypeScript · Java · Selenide · Cucumber · BDD**
 - 🌐 I test at every layer — **frontend UI** (web apps, React) and **backend APIs** (REST, Postman, Newman)
-- 🤖 I develop **AI-powered tooling** for test creation, Jira authoring, and code generation
+- 🤖 I build **internal QA tools** in Python and **AI-powered tooling** for test creation, Jira authoring, and code generation
 - 🏭 I validate **industrial IoT** systems — PLC, OPC UA, MQTT, CNC integrations
 - 🌎 Native Portuguese · C2 English · Intermediate Spanish
 
@@ -49,6 +49,7 @@ Technical reference for the QA team: onboarded and trained 3 testers, set the te
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman%20CLI-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-5A9E3A?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 
 **Test Management**
@@ -59,6 +60,9 @@ Technical reference for the QA team: onboarded and trained 3 testers, set the te
 **Languages & Scripting**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
