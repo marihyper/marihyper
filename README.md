@@ -17,11 +17,12 @@
 
 ### About me
 
-I'm a **Senior QA Engineer and SDET** with 5+ years shipping quality across web, industrial IoT, and AI-powered products.
+I'm a Senior QA Engineer and SDET with 5+ years of experience across web, API, banking and industrial IoT testing. 
+Currently testing an industrial IoT edge platform and an AI computer vision product at Telit Cinterion, from factory devices up to the web UI.
 
-I don't just find bugs — I build the infrastructure that catches them. From architecting UI automation frameworks from scratch (0 → 100+ tests), to improving React component testability, to developing an AI-assisted bug reporting tool that cut documentation time by 80%, I work at the intersection of quality engineering and software development.
+Finds the defects that matter, builds test automation that lasts, and creates internal tools when the existing tooling slows the team down. 
+Technical reference for the QA team: onboarded and trained 3 testers, set the team’s automation design standards and led the adoption of Testmo.
 
-Currently at **Telit Cinterion** working on Visual Inspection and industrial IoT systems. Previously at **Dimensa** on banking automation.
 
 - 🔧 I build automation frameworks with **Java · Selenide · Cucumber · BDD**
 - 🌐 I test at every layer — **frontend UI** (web apps, React) and **backend APIs** (REST, Postman, Newman)
